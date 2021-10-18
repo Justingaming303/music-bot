@@ -54,28 +54,19 @@ npm i ytdl-core
 
 # Features
 
-**Default Prefix: (customizable in `config.json`)** `-`
+**Default Prefix: (customizable in `config.json`)** `!`
 
-**Ticket Features**
-- Ticket Logs (eg. Ticket Opened, Deleted, Renamed)
-- Customizable Panel Message
-- Customizable Ticket Message
-- Full Customization in `/config/`
-- Open
-- Close
-- Delete
-- Rename
-- setlog Command (A channel where ticket logs are sent)
 
-**Misc**
-- Customizable Messages
-- Intro
-- Paypal
-- ToS
-- Help Command
+- YouTube Search
+- Play
+- Stop
+- Skip
+- DJ Skip 
+- Vote Skip
+- Customizable DJs (Users that can skip without having to vote)
+- Clear Queue 
 - Ping
-- setcurrency
-- settos (Sets the message when you do -tos)
+- Help command
 
 
 # Bugs
